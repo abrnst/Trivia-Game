@@ -1,0 +1,19 @@
+body {
+    align-content: center;
+    text-align: center;
+    background-image: url("nba.jpg");
+    color:white;
+    
+}
+h1 {
+    color:white;
+    font-size: 80px;
+    text-shadow: 2px 2px grey;
+}
+
+#pic {
+    text-align: center;
+    align-content: center;
+    width: 10%;
+    height: 10%;
+}
